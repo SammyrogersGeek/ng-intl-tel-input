@@ -21,10 +21,10 @@
         link: function link ($scope, $element, attrs, modelCtrl) {
 
           /**
-           * Obtaining reference to the plugin API
+           * Obtaining reference tos the plugin API
            * and making sure it's present.
            */
-          var pluginApi = $element.intlTelInput;
+          var pluginApi = $element.intlTelInput
           if (!pluginApi) {
             log('intl-tel-input jQuery plugin must be loaded, skipping directive initialization');
             return;

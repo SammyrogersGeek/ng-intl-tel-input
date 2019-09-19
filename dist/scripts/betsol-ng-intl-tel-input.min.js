@@ -1,6 +1,6 @@
 /**
  * betsol-ng-intl-tel-input - intl-tel-input integration for Angular.js
- * @version v1.3.2
+ * @version v1.3.3
  * @link https://github.com/betsol/ng-intl-tel-input
  * @license MIT
  *
